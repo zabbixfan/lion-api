@@ -1,0 +1,9 @@
+myapp.log
+app.log
+celerybeat-schedule
+celerybeat.pid
+.idea
+*.pyc
+*/*.pyc
+config.py
+.idea/
